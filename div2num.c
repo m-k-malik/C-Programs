@@ -4,7 +4,7 @@ int main(){
 
     float x=15, y=4;
     float div=(x/y);
-    printf("Div = %f\n",div);
+    printf("Quotient = %f\n",div);
     return 0;
 
 }
